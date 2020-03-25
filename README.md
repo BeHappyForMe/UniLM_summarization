@@ -8,4 +8,5 @@
 完美融入BERT中，补齐了BERT在文本生成方面的短板
 
 
-本文在崔一鸣教授开源的中文BERT预训练模型基础上，使用UniLM进行微调，实现中文文本摘要任务。
+本文在崔一鸣教授开源的中文BERT预训练模型基础上，使用UniLM进行微调，实现中文文本摘要任务。代码基于PyTorch实现，数据集链接：
+<a href="https://github.com/microsoft/unilm" target="_blank">TODO</a>。
